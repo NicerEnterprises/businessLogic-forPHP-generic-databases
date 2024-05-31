@@ -3,7 +3,7 @@ Slouch
 
 Slouch is 'Sag' for PHP that includes database activity tapping[1] for a wide range of database servers (via genericDatabasesPHP).
 
-* 1 : .../NicerAppWebOS/logic.databases/genericDatabasesPHP-1.0.0
+* 1 : .../NicerAppWebOS/businessLogic-forPHP-generic-databases/genericDatabasesPHP-1.0.0
 
 Sag
 ===
