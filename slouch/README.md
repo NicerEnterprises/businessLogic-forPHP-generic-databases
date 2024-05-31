@@ -2,6 +2,7 @@ Slouch
 ======
 
 Slouch is 'Sag' for PHP that includes database activity tapping[1] for a wide range of database servers (via genericDatabasesPHP).
+This is a *fork* of the original SAG Library that was hosted on saggincouch.com.
 
 * 1 : .../NicerAppWebOS/businessLogic-forPHP-generic-databases/genericDatabasesPHP-1.0.0
 
@@ -13,8 +14,6 @@ particular programming method on its users - you just pass PHP objects, and get
 stdClass objects and Exceptions back. This makes it trivial to incorporate Sag
 into your application, build different functionality on top of it, and expand
 Sag to incorporate new CouchDB functionality.
-
-This is a *fork* of the original SAG Library that was hosted on saggincouch.com.
 
 Compatibility
 -------------
